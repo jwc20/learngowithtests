@@ -1,8 +1,5 @@
-package main
-
-import (
-	"fmt"
-)
+/* Package hello prints a greeting for the named person. */
+package hello
 
 const (
 	spanish            = "Spanish"
@@ -30,8 +27,4 @@ func greetingPrefix(language string) (prefix string) {
 		prefix = englishHelloPrefix
 	}
 	return prefix
-}
-
-func main() {
-	fmt.Println(Hello("Jae", ""))
 }
