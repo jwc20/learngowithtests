@@ -16,6 +16,10 @@ ignore_dirs = [
     "iterations",
     "arrays",
     "structs",
+    "pointers",
+    "maps",
+    "di",
+    "mocking",
 ]
 
 
