@@ -20,6 +20,9 @@ ignore_dirs = [
     "maps",
     "di",
     "mocking",
+    "concurrency",
+    "select",
+    "reflection",
 ]
 
 
