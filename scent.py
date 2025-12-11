@@ -23,6 +23,10 @@ ignore_dirs = [
     "concurrency",
     "select",
     "reflection",
+    "sync",
+    "context",
+    "romannumerals",
+    "math",
 ]
 
 
