@@ -27,6 +27,7 @@ ignore_dirs = [
     "context",
     "romannumerals",
     "math",
+    "http-server",
 ]
 
 
