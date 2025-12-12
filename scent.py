@@ -29,6 +29,7 @@ ignore_dirs = [
     "math",
     "http-server",
     "httpserver",
+    "json",
 ]
 
 
